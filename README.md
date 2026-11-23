@@ -22,6 +22,4 @@ Generate KiCad projects from JSON specs:
 
 Free: 1 board. Pro: $49.99/credit.
 
-Try it: https://autopcb.mkechem.com
-
 #KiCad #PCBDesign"
